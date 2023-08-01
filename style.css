@@ -1,0 +1,23 @@
+body{
+    background-color: #111a28;
+    font-family: 'Prompt', sans-serif;
+    color: rgba(255, 255, 255, 0.67);
+}
+#menu-superior ul{
+    margin: 20px;
+    margin-right: 50px;
+    display: flex;
+    text-decoration: none;
+    justify-content: flex-end;
+}
+
+li{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+#home{
+    
+}
