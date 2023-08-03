@@ -2,18 +2,6 @@
     #menu-superior{
         visibility: hidden;
     }
-    
-    #home .primary-content{
-        color: #ffffff;
-        font-size: 15px;
-        margin: 3% 0;
-    }
-    #home .secundary-content{
-        color: rgb(39, 211, 79);
-        font-size: 5px;
-        margin: 1% 0;
-    }
-    
     #about-me {
         display: flex;
         flex-direction: column;
