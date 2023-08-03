@@ -5,9 +5,11 @@
     
     #home .primary-content{
         font-size: 15px;
+        visibility: hidden;
     }
     #home .secundary-content{
         font-size: 5px;
+        visibility: hidden;
     }
     
     #about-me {
